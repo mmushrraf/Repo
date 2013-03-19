@@ -1,0 +1,139 @@
+# edaqua-git repository 
+
+This is the git repository for the web development of https://www.edaqua.com 
+but using http://spacescale.com as the testing envioroment hosting.
+
+The reason to use a git repo in this project it's to ensure that no changes 
+on files are overwritten by a developers as work seems to be in a hurry!! :(
+
+## PHP Files 
+
+The path for this files is:
+*****************
+***	/account/ ***
+*****************
+--------------------
+### account.php ###
+--------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+--------------------
+### balance.php ###
+--------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+------------------
+### binary.php ###
+------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+------------------
+### index.php ####
+------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+-------------------
+### profile.php ###
+-------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+-----------------
+### sales.php ###
+-----------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+--------------------
+### shopping.php ###
+--------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+---------------------
+### statement.php ###
+---------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+--------------------
+### unilevel.php ###
+--------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+
+## HTML5 templates
+
+
+The path for this files is:
+***********************
+***	/templates/en/account/ ***
+**********************
+
+--------------------
+### account.php ### 
+--------------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 16/03/2013: re-structured directories and src's.
+
+-------------------
+### balance.php ### 
+-------------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 16/03/2013: re-structured directories and src's.
+
+------------------
+###	binary.php ###
+------------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 11/03/2013: support for sub-accounts next entrie option.
+-modified 11/03/2013: support for sub-accounts top panel info.
+-modified 16/03/2013: re-structured directories and src's.
+
+
+----------------------
+### header_acc.php ###
+----------------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 16/03/2013: re-structured directories and src's.
+
+---------------------
+###	index_acc.php ###
+---------------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 16/03/2013: re-structured directories and src's.
+
+-------------------
+### profile.php ###
+-------------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 16/03/2013: re-structured directories and src's.
+
+-----------------
+### sales.php ###
+-----------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 16/03/2013: re-structured directories and src's.
+
+--------------------
+### shopping.php ###
+--------------------
+- added 11/03/2013: added.
+-modified 16/03/2013: re-structured directories and src's.
+
+
+---------------------
+### statement.php ###
+---------------------
+-modified 16/03/2013: re-structured directories and src's.
+
+
+--------------------
+### unilevel.php ###
+--------------------
+-modified 11/03/2013: added shopping link on left menu.
+-modified 16/03/2013: re-structured directories and src's.
+
